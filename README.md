@@ -23,9 +23,11 @@ Before that, I obtained my Bachelor's degree in **Automation** from **HITSZ**.
 My research interests lie at the intersection of **Embodied Intelligence** and **Robotics**, with a specific focus on:
 - **Vision-Language-Action (VLA) Models**
 - **Reinforcement Learning & Robotic Manipulation**
+- **Vision-Language-Navigation (VLN) Models**
 ---
 
 ### 📫 How to reach me
 - **Email:** [210320421@stu.hit.edu.cn]
 - **Google Scholar:** [https://scholar.google.com/citations?user=VCzgh8wAAAAJ&hl=en]
 - **Personal Homepage** [http://qitanda.cyandyue.cn/]
+- **QQ** [1602771147]
