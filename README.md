@@ -29,5 +29,5 @@ My research interests lie at the intersection of **Embodied Intelligence** and *
 ### 📫 How to reach me
 - **Email:** [210320421@stu.hit.edu.cn]
 - **Google Scholar:** [https://scholar.google.com/citations?user=VCzgh8wAAAAJ&hl=en]
-- **Personal Homepage** [http://qitanda.cyandyue.cn/]
+- **Personal Homepage** [https://homepage.qitanda.cn/]
 - **QQ** [1602771147]
