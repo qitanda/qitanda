@@ -21,8 +21,9 @@ I am currently a Graduate Student in **Control Science and Engineering** at **Ha
 Before that, I obtained my Bachelor's degree in **Automation** from **HITSZ**.
 
 My research interests lie at the intersection of **Embodied Intelligence** and **Robotics**, with a specific focus on:
-- **Vision-Language-Action (VLA) Models & World-Action-Model（WAM）**
-- **Reinforcement Learning & Robotic Manipulation**
+- **Robot Manipulation**
+- **Vision-Language-Action (VLA) Models**
+- **World Models (WM) and World-Action Models (WAM)**
 - **Vision-Language-Navigation (VLN) Models**
 ---
 
